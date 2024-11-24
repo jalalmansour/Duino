@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![hero](Github.png)
 
 <p align="center">
@@ -183,3 +184,6 @@ This project is licensed under the [AGPL-3.0 license](LICENSE).
 If you have any questions or suggestions, feel free to reach out to us at [Contact](https://bishalsaha.com/contact).
 
 Happy coding! 🚀
+=======
+# Duino
+>>>>>>> cb90f20d8a025eebdab463ba8e1277014d3e50a3
